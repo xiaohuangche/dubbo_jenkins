@@ -1,6 +1,6 @@
 dubbo:
   application:
-    name: boot-user-service-provider
+    name: boot-user-service-provider1
   registry:
     protocol: zookeeper
     address: 47.106.182.44:2181
